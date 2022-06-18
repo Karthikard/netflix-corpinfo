@@ -1,0 +1,89 @@
+#heading{
+    font-size: 32px;
+    line-height:40px ;
+    font-family: ;
+    margin: 0 20 0 20;
+}
+
+.topblack{
+    background-color: black;
+    text-align: left;
+    position: relative;
+}
+.button{
+    background-color: black;
+    padding: 40 10 80 50;
+    
+}
+.body{
+    margin: 0 20 0 20;
+}
+.footer{
+    position: relative;
+    display: inline;
+    left: 60%;
+    padding: 25px;
+    bottom: 50px;
+   
+}
+.buttontop{
+   position: absolute;
+   left: 80%;
+   bottom: 30px;
+    background-color: black;
+    font-size: 20px;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid white;
+    cursor: pointer;
+    text-decoration: none;
+}
+.buttontop:hover{
+    background-color: white;
+}
+.signin{
+    position: absolute;
+    left: 90%;
+    padding: 12px;
+    bottom: 30px;
+    background-color: red;
+    font-size: 15px;
+   
+    text-align: center;
+    border: 1px solid white;
+}
+.signin:hover{
+    background-color: white;
+}
+.help{
+    position: absolute;
+    left:200px;
+    bottom: 38%;
+    font-size: 28px;
+    text-decoration: none;
+}
+.each{
+    padding: 8px;
+    display: inline;
+    color: gray;
+    
+}
+#language{
+    padding: 15 100 15 15;
+    font-size: 20px;
+    background-color:black;
+    color:gray ;
+}
+.home{
+    position: relative;
+    margin: 0 20 0 20;
+    padding: 20px;
+}
+.print{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    position: relative;
+    left: 90%;
+    bottom: 40px;
+}
